@@ -1,3 +1,5 @@
 tensorflow
 notebook
 matplotlib
+pandas
+scipy

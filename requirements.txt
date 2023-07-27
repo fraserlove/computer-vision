@@ -3,3 +3,4 @@ notebook
 matplotlib
 pandas
 scipy
+kaggle

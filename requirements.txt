@@ -1,4 +1,5 @@
 tensorflow
+tf-models-official
 notebook
 matplotlib
 pandas

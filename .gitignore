@@ -1,5 +1,7 @@
 datasets/
 models/
+pre-trained-models/
+training/
 saved/
 
 # Byte-compiled / optimized / DLL files

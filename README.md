@@ -3,8 +3,8 @@ A Collection of computer vision projects (image classification and object detect
 
 ### Setup
 ```
-git clone https://github.com/fraserlove/tensorflow.git
-cd tensorflow
+git clone https://github.com/fraserlove/computer-vision.git
+cd computer-vision
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

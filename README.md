@@ -1,5 +1,5 @@
-# tensorflow
-TensorFlow machine learning projects.
+# Computer Vision
+A Collection of computer vision projects (image classification and object detection).
 
 ### Setup
 ```

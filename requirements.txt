@@ -1,5 +1,4 @@
 tensorflow
-notebook
 matplotlib
 pandas
 pillow

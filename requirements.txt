@@ -1,7 +1,20 @@
+# Deep Learning Frameworks
 tensorflow
+torch
+
+# Utilities
+torchinfo
+tensorboard
+
+# Data Management
 matplotlib
 pandas
 pillow
+numpy
+
+# Datasets
 kaggle
+
+# Object Detection Frameworks
 super-gradients
-torchinfo
+ultralytics

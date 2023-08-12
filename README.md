@@ -2,7 +2,7 @@
 A collection of computer vision models and projects, specifically covering image classification and object detection.
 
 ![alt text](https://fraser.love/content/images/size/w2000/2023/07/intro-into-object-detection-color.jpg)
-## Installation and Setup
+## Installation and Usage
 Setup your environment and install the required dependencies as follows:
 
 1. **Clone the Repository:**

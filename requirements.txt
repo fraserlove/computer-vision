@@ -5,8 +5,10 @@ torch
 # Utilities
 torchinfo
 tensorboard
+jupyter-notebook
 
 # Data Management
+scikit-learn
 matplotlib
 pandas
 pillow

@@ -1,5 +1,5 @@
 # Computer Vision
-A collection of computer vision projects, specifically covering image classification and object detection.
+A collection of computer vision models and projects, specifically covering image classification and object detection.
 
 ![alt text](https://fraser.love/content/images/size/w2000/2023/07/intro-into-object-detection.jpg)
 ## Installation and Setup
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ``` bash
 jupyter notebook
 ```
-## Included Scripts
+## Included Models
 
 - Image Classification
     - Binary Classifier
